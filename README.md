@@ -6,7 +6,7 @@ It can tell you the prvention measures , symptoms etc..
 
 Link of the AZURE BOT Service used in our project:https://azure.microsoft.com/en-us/services/bot-services/
 
-Test my project(my website link): 
+Test my project(my website link): https://venkatamunireddy.github.io/covid-Bot/
 
 Some of the images scrrenshots take while creating bot chat(Steps followed)
 
